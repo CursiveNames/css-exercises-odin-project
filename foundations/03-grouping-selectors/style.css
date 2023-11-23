@@ -1,0 +1,14 @@
+.button_form_1,
+.button_form_2{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.button_form_1{
+    background-color: rgb(0,0,0);
+    color: white;
+}
+
+.button_form_2{
+    background-color: yellow;
+}

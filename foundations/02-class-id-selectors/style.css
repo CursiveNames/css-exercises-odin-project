@@ -1,0 +1,28 @@
+.red-highlighter{
+    background-color: rgb(229, 116, 129);
+    color: rgb(0,0,0);
+    font-family: sans-serif;
+}
+
+.font-resize{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.red-highlighter.font-resize{
+    font-size: 30px;
+}
+
+#id-2{
+    font-weight: 400;
+    font-size: 30px;
+    background-color: rgb(21, 255, 0);
+    font-family: sans-serif;
+}
+
+#id-3{
+    font-size: 50px;
+    color: rgb(15, 15, 234);
+    background-color: transparent;
+    font-family: sans-serif;
+}
